@@ -1,7 +1,7 @@
 fuelsdk [![Gem Version](https://badge.fury.io/rb/fuelsdk.png)](http://badge.fury.io/rb/fuelsdk) [![Code Climate](https://codeclimate.com/github/barberj/fuelsdk.png)](https://codeclimate.com/github/barberj/fuelsdk) [![Build Status](https://travis-ci.org/barberj/fuelsdk.png?branch=master)](https://travis-ci.org/barberj/fuelsdk) [![Coverage Status](https://coveralls.io/repos/barberj/fuelsdk/badge.png?branch=master)](https://coveralls.io/r/barberj/fuelsdk?branch=master)
 ============
 
-ExactTarget Fuel SDK for Ruby
+ExactTarget Fuel SDK for Ruby (Luckie's Version Frozen for ATD)
 
 ## Overview ##
 The Fuel SDK for Ruby provides easy access to ExactTarget's Fuel API Family services, including a collection of REST APIs and a SOAP API. These APIs provide access to ExactTarget functionality via common collection types such as array/hash.
